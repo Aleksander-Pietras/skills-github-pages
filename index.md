@@ -16,3 +16,9 @@ gantt
     section Development
     Backend           :        des3, 2025-10-11, 2025-10-25
     Frontend          :        des4, 2025-10-20, 2025-10-30
+
+
+```
+- [ ] task 1
+- [ ] task 2
+- [x] task 3 (completed?)
